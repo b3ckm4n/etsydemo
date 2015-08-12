@@ -12,3 +12,5 @@
 
 APP_SECRET: "0k7bkvbdj46jzrc"
 ACCESS_TOKEN_SECRET: "i6vaeyritzpc0uc"
+STRIPE_API_KEY: "sk_test_vDkDvJ7feA7R9LpFKJUz79ni"
+STRIPE_PUBLISHABLE_KEY: "pk_test_Vxp1mmUzYDIwGRj5yUvskwkL"
